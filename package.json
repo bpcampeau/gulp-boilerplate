@@ -1,0 +1,34 @@
+{
+  "name": "gulp-boilerplate",
+  "version": "1.0.0",
+  "description": "A boilerplate and multiple demo for anything related to the config",
+  "main": "index.js",
+  "dependencies": {
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-stage-0": "^6.22.0",
+    "gulp-babel": "^6.1.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-if": "^2.0.2",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-notify": "^3.0.0",
+    "gulp-uglify": "^2.0.1",
+    "gulp-watch": "^4.3.11",
+    "pump": "^1.0.2",
+    "yargs": "^6.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup-abe": "node scripts/setup-abe.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerodzunaro/gulp-boilerplate.git"
+  },
+  "author": "Bruno-Pierre Campeau",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zerodzunaro/gulp-boilerplate/issues"
+  },
+  "homepage": "https://github.com/zerodzunaro/gulp-boilerplate#readme"
+}
