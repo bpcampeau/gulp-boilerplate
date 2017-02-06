@@ -19,7 +19,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "setup-abe": "node scripts/setup-abe.js"
+    "setup-abe": "node scripts/setup.js"
   },
   "repository": {
     "type": "git",
